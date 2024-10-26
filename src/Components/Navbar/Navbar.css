@@ -1,0 +1,30 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #fff;
+    padding: 0 3rem;
+    position: sticky;
+    top: 0;
+}
+
+nav img{
+    width: 180px;
+    height: 80px;
+}
+
+ul{
+    display: flex;
+}
+
+ul li a{
+    text-decoration: none;
+    margin-right: 2rem;
+    color: black;
+    font-weight: 700;
+    color: goldenrod;
+}
+
+li{
+    list-style-type: none;
+}

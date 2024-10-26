@@ -1,0 +1,8 @@
+.cart-section{
+    background-color: goldenrod;
+    color: white;
+    padding: 1rem;
+    margin-top: 1rem;
+    position: sticky;
+    top: 80px;
+}
